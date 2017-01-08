@@ -25,4 +25,4 @@ Openpyxl is used to get cell values from the template sheet, but the tool can be
 # name = Input features, type = feature class
 # name = Field name, type = field, dependency = Input features
 ```
-* Upload landuse.xlsx to geoprocessing tool
+* Upload `landuse.xlsx` to geoprocessing tool
