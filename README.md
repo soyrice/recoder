@@ -1,5 +1,5 @@
 # recoder
-Standardize and map future land use/land cover data
+Standardize and map future land use data
 
 # Summary
 
@@ -15,7 +15,7 @@ Openpyxl is used to get cell values from the template sheet, but the tool can be
 
 # Installation
 
-* Add recoder.py to a new [ArcGIS script tool](http://pro.arcgis.com/en/pro-app/help/analysis/geoprocessing/basics/create-a-python-script-tool.htm)
+* Add `recoder.py` to a new [ArcGIS script tool](http://pro.arcgis.com/en/pro-app/help/analysis/geoprocessing/basics/create-a-python-script-tool.htm)
 
 * Create 6 input parameters from comments
 ```python
