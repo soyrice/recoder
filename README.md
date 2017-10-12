@@ -13,6 +13,7 @@ Click the dropdown to get more background on the project
 </summary>
 
 <p>
+<br>
 This tool was developed for the Rhode Island Statewide Planning Program to build a composite future land use map. Municipalities designate their own future land use classes, so to analyze differences between municipal future land use trends land use classes need to be standardized. Often municipal land use data is too big to edit manually, so a geoprocessing tool automates the data management and processing.
 
 `Openpyxl` is used to get cell values from the template sheet, but the tool can be edited to handle various formats and write back to the sheet. `Openpyxl` is used for flexibility, but Pandas can also be used in this format.
