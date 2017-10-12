@@ -1,5 +1,5 @@
 # recoder
-Standardize and map future land use data
+Standardize and map future land use data with ArcPy
 
 # Summary
 
