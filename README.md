@@ -19,8 +19,6 @@ This tool was developed for the Rhode Island Statewide Planning Program to build
 
 See [Google Drive](https://drive.google.com/file/d/0BzpR0X1lXypvVTBTOVpmNWt4OUU/view?usp=sharing) to preview the template Excel sheet or clone repository to save the Excel template locally.
 
-If ArcGIS isn't available, I'm [building another version](https://github.com/soyrice/frecoder) that uses only free Python and web mapping tools.
-
 # Install
 
 * Add `recoder.py` to a new [ArcGIS script tool](http://pro.arcgis.com/en/pro-app/help/analysis/geoprocessing/basics/create-a-python-script-tool.htm)
@@ -35,6 +33,8 @@ If ArcGIS isn't available, I'm [building another version](https://github.com/soy
 ```
 
 ![](https://user-images.githubusercontent.com/22160049/31854162-18cc0c52-b663-11e7-9b22-ebb348f7504f.png)
+
+* If ArcGIS isn't available, I'm [building another version](https://github.com/soyrice/frecoder) that uses only free Python and web mapping tools.
 
 # Try it out
 
