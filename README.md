@@ -5,7 +5,7 @@ Standardize and map future land use data with ArcPy
 
 <details>
 <summary>
-This tool standardizes land use/land cover data from various sources. It uses `openpyxl` to read data from an Excel sheet and runs as an ArcGIS geoprocessing tool to re-code land use/land cover attributes.
+This tool standardizes land use/land cover data from various sources. It uses `openpyxl` to read data from an Excel sheet and runs as an ArcGIS geoprocessing tool to re-code land use/land cover attributes.<br><br>
 </summary>
 
 <p>
