@@ -16,9 +16,10 @@ This tool was developed for the Rhode Island Statewide Planning Program to build
 </p>
 </details>
 
-If ArcGIS isn't available, I'm [building another version](https://github.com/soyrice/frecoder) that uses only free Python and web mapping tools.
 
 See [Google Drive](https://drive.google.com/file/d/0BzpR0X1lXypvVTBTOVpmNWt4OUU/view?usp=sharing) to preview the template Excel sheet or clone repository to save the Excel template locally.
+
+If ArcGIS isn't available, I'm [building another version](https://github.com/soyrice/frecoder) that uses only free Python and web mapping tools.
 
 # Install
 
